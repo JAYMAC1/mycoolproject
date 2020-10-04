@@ -4,5 +4,6 @@ Please add relevant info about files relating to this project
 
 |Script Name|Description|Original Author|
 |-----------|-----------|----------|
-| Computer Audit.ps1 | To get local hardware information| James McNeil | 
+| computer_audit.ps1 | To get local hardware information | James McNeil | 
+| email_audit.ps1 | Will send out report of audit results | James McNeil | 
 
